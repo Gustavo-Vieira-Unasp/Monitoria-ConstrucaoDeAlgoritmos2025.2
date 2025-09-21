@@ -1,0 +1,1 @@
+# Monitoria-ConstrucaoDeAlgoritmos2025.2
