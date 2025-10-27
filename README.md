@@ -3,6 +3,7 @@ Este é o GitHub oficial da Monitoria de Construção de Algoritmos para as turm
 
 ## Desafios
 - [Rei e o Barril Envenenado](desafio1/README.md)
+- [Circuito dos Cavaleiros](desafio2/README.md)
 
 ## Monitores
 @Gustavo-Vieira-Unasp
